@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=
+comment1.target=Tester()
+comment10.params=
+comment10.target=void\ testIPMostVisitOnDay()
+comment2.params=
+comment2.target=void\ testLogEntry()
+comment3.params=
+comment3.target=void\ testLogAnalyzer()
+comment4.params=
+comment4.target=void\ testUniqIPsInRange()
+comment5.params=
+comment5.target=void\ testCounts()
+comment6.params=
+comment6.target=void\ testMaxVisit()
+comment7.params=
+comment7.target=void\ testIPsMostVisits()
+comment8.params=
+comment8.target=void\ testIPsByDay()
+comment9.params=
+comment9.target=void\ testMostVisitDay()
+numComments=11
